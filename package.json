@@ -25,5 +25,7 @@
     "mysql": "^2.15.0",
     "sequelize": "^4.33.3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier": "^1.10.2"
+  }
 }
