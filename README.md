@@ -1,1 +1,1 @@
-# burger
+This is my attempt at producing an app leveraging a MySQL connection and a number of interesting dependancies such as express, express-handlebars, and method-override. 
